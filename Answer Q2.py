@@ -1,4 +1,3 @@
-from utils import*
 from logic import*
 
 #(1) Maria reads logic programming book by author peter lucas.
